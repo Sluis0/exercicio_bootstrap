@@ -1,0 +1,17 @@
+* {
+    
+}
+
+.container {
+    max-width: 1024px;
+}
+
+.container form {
+    max-width: 300px;
+}
+
+.container button {
+    margin-top: 10px;
+    max-width: 300px;
+    width: 100%;
+}
